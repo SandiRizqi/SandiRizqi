@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anugrah Sandi Rizqi</h1>
-<h3 align="center">🌱 Data Enthusiast | 🚀 Tech Builder | 🌍 Impact Creator</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+build+great+things+together." alt="Typing SVG" />
-</p>
-
+![SandiRizqi](img/github-header-image.png)
 ---
 
 ## About Me
@@ -12,7 +7,7 @@
 - 🔭 I’m currently working on **Geocircle Indonesia**
 - 🌱 I’m learning about **Data and Web Tech**
 - 🧠 Passionate about **data, sustainability, and geospatial technologies**
-- 📫 How to reach me: **a.sandi.rizqi@com**
+- 📫 Reach me: **a.sandi.rizqi@com**
 
 ---
 
