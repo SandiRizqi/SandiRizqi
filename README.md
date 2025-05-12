@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="img/github-header-image.png" alt="SandiRizqi banner" />
-</p>
-
-## 📈 GitHub Stats
+## 📈 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SandiRizqi&show_icons=true&theme=radical" alt="your github stats" height="180"/>
