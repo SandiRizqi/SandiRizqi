@@ -1,6 +1,6 @@
 ## 📈 Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SandiRizqi&show_icons=true&theme=radical" alt="your github stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRizqi&layout=donut&hide=jupyter%20notebook&theme=radical" alt="top languages" height="180"/>
 </p>
