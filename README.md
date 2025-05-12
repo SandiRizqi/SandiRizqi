@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Anugrah Sandi Rizqi</h1>
 ![SandiRizqi](img/github-header-image.png)
----
 
 ## About Me
 
