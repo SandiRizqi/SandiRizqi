@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Anugrah Sandi Rizqi</h1>
 <h3 align="center">🌱 Data Enthusiast | 🚀 Tech Builder | 🌍 Impact Creator</h3>
 
 <p align="center">
@@ -7,15 +7,12 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I’m currently working on **[Your Project/Startup/Research]**
-- 🌱 I’m learning about **[Tech Topics or Tools]**
+- 🔭 I’m currently working on **Geocircle Indonesia**
+- 🌱 I’m learning about **Data and Web Tech**
 - 🧠 Passionate about **data, sustainability, and geospatial technologies**
-- 💬 Ask me about **[Your Skills/Topics]**
-- 📫 How to reach me: **[your_email@example.com]**
-- ⚡ Fun fact: *[Funny or unique line about yourself]*
-
+- 📫 How to reach me: **a.sandi.rizqi@com**
 ---
 
 ## 🛠️ Tech Stack
@@ -34,8 +31,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="your github stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="top languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SandiRizqi&show_icons=true&theme=default" alt="your github stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandiRizqi&layout=compact" alt="top languages" height="180"/>
 </p>
 
 ---
