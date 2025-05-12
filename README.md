@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="img/github-header-image.png" alt="SandiRizqi banner" />
+</p>
 <h1 align="center">Hi there , I'm Anugrah Sandi Rizqi</h1>
-![SandiRizqi](img/github-header-image.png)
 
 ## About Me
 
