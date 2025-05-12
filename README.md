@@ -1,16 +1,6 @@
 <p align="center">
   <img src="img/github-header-image.png" alt="SandiRizqi banner" />
 </p>
-<h1 align="center">Hi there , I'm Anugrah Sandi Rizqi</h1>
-
-## About Me
-
-- 🔭 I’m currently working on **Geocircle Indonesia**
-- 🌱 I’m learning about **Data and Web Tech**
-- 🧠 Passionate about **data, sustainability, and geospatial technologies**
-- 📫 Reach me: **a.sandi.rizqi@com**
-
----
 
 ## 📈 GitHub Stats
 
